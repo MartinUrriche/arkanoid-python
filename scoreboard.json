@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "MIA",
+        "puntaje": 400
+    },
+    {
+        "nombre": "MIRTA",
+        "puntaje": 350
+    },
+    {
+        "nombre": "MALE",
+        "puntaje": 350
+    },
+    {
+        "nombre": "MARIA",
+        "puntaje": 350
+    },
+    {
+        "nombre": "LAURA",
+        "puntaje": 290
+    },
+    {
+        "nombre": "FLORR",
+        "puntaje": 280
+    },
+    {
+        "nombre": "MARTINCHO",
+        "puntaje": 200
+    },
+    {
+        "nombre": "JUAN",
+        "puntaje": 170
+    },
+    {
+        "nombre": "LOLA",
+        "puntaje": 40
+    },
+    {
+        "nombre": "PEPE",
+        "puntaje": 20
+    }
+]
