@@ -82,21 +82,6 @@ parcial_jueguito/
 3. ✅ **Arquitectura modular** - Separación de configuración, lógica y renderizado
 4. ✅ **Gestión de estados** - Menú, juego, pausado, victoria/derrota
 
----
-
-## 📚 Para Presentar en Entrevistas
-
-### Puntos Clave a Destacar:
-- **Habilidad 1**: Manejo de formas geométricas en interfaces de usuario
-- **Habilidad 2**: Implementación de algoritmos de detección de colisiones
-- **Habilidad 3**: Diseño de arquitectura escalable con configuración modular
-- **Habilidad 4**: Trabajo colaborativo en desarrollo de software
-
-### Datos Cuantificables:
-- ✅ **6.5KB** de lógica de configuración estructurada
-- ✅ Sistema de **estados** con múltiples pantallas
-- ✅ **3 niveles** de dificultad con progresión de dificultad
-- ✅ **Base de datos** persistente para leaderboard
 
 ---
 
